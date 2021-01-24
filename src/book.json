@@ -1,4 +1,4 @@
 {
 	"title": "Sample GitBook",
-	"plugins": ["remove-published-with-link"]
+	"plugins": ["remove-published-with-link", "-sharing"]
 }
