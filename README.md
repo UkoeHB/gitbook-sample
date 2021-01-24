@@ -10,7 +10,10 @@ New Markdown files go in `src/` (note: it is fine to add subdirectories to `src/
 Assuming `gitbook-cli` is installed, run this to update the GitBook:
 
 ```
-// at command line
+// at command line (first time running gitbook, or when new plugins are added)
+gitbook install src
+
+// at commend line (every time rebuilding the book)
 gitbook build src docs
 ```
 
