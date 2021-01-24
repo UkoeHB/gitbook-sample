@@ -20,4 +20,4 @@ gitbook build src docs
 
 ## GitHub Pages
 
-In GitHub -> Settings -> GitHub Pages -> Source -> select folder `/docs` from the dropdown (and `Save`). Then the GitBook will appear at `https://USERNAME.github.io/gitbook-sample/` (once Pages gets its act together, which may take up to 20mins or so for each update).
+In GitHub -> Settings -> GitHub Pages -> Source -> select folder `/docs` from the dropdown (and `Save`). Then the GitBook will appear at `https://USERNAME.github.io/gitbook-sample/` (once Pages gets its act together, which may take up to 20mins or so for each update; also note the GitBook updates piece-by-piece instead of all-at-once, which can be confusing).
