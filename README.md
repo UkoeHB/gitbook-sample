@@ -1,6 +1,6 @@
 # README
 
-A simple gitbook based on [this tutorial](https://hackernoon.com/how-to-publish-a-book-with-gitbook-cli-and-github-pages-in-7-minutes-i61w3wjn). Find the generated book [here](https://USERNAME.github.io/gitbook-sample/).
+A simple gitbook based on [this tutorial](https://hackernoon.com/how-to-publish-a-book-with-gitbook-cli-and-github-pages-in-7-minutes-i61w3wjn). Find the generated book [here](https://ukoehb.github.io/gitbook-sample/).
 
 
 ## Adding Content
