@@ -15,6 +15,9 @@ gitbook install src
 
 // at command line (every time rebuilding the book)
 gitbook build src docs
+
+// view local version of gitbook
+gitbook serve src docs
 ```
 
 
