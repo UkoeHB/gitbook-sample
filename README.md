@@ -2,6 +2,8 @@
 
 A simple gitbook based on [this tutorial](https://hackernoon.com/how-to-publish-a-book-with-gitbook-cli-and-github-pages-in-7-minutes-i61w3wjn). Find the generated book [here](https://ukoehb.github.io/gitbook-sample/).
 
+Note: only works with `node <= 11.10.0`, see [here](https://stackoverflow.com/questions/47008159/how-to-downgrade-node-version) for instructions on downgrading `node`.
+
 
 ## Adding Content
 
@@ -18,6 +20,9 @@ gitbook build src docs
 
 // view local version of gitbook
 gitbook serve src docs
+
+// get more details on commands
+gitbook help
 ```
 
 
